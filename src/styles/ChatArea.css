@@ -65,6 +65,7 @@
     color: white;
   }
   
+
   .chat-input button {
     background-color: #3a86ff;
     color: white;
@@ -77,4 +78,5 @@
   .chat-input button i {
     font-size: 16px;
   }
+  
   

@@ -20,17 +20,17 @@ const Sidebar = ({ setCurrentChat }) => {
           <li onClick={() => setCurrentChat('Help Center')}>
             <i className="fa fa-question-circle"></i> Help Center
           </li>
-          <li onClick={() => setCurrentChat('Contact 1')}>
-            <i className="fa fa-user"></i> Contact 1
+          <li onClick={() => setCurrentChat('Puspanjali Neupane')}>
+            <i className="fa fa-user"></i> Puspanjali 
           </li>
-          <li onClick={() => setCurrentChat('Contact 2')}>
-            <i className="fa fa-user"></i> Contact 2
+          <li onClick={() => setCurrentChat('Shreya Niraula')}>
+            <i className="fa fa-user"></i> Shreya
           </li>
           <li onClick={() => setCurrentChat('Group 1')}>
-            <i className="fa fa-users"></i> Group 1
+            <i className="fa fa-users"></i> Family
           </li>
           <li onClick={() => setCurrentChat('Group 2')}>
-            <i className="fa fa-users"></i> Group 2
+            <i className="fa fa-users"></i> Friends
           </li>
         </ul>
       </div>
